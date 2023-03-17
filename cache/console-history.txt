@@ -1,0 +1,13 @@
+eund = await eund_FAC.deploy()
+let eund_FAC = await ethers.getContractFactory("EarnedUND")
+let eund
+und.address
+und = await und_FAC.deploy()
+und_FAC = await ethers.getContractFactory("UnstoppableEcosystemToken")
+und_FAC = await ethers.getContractFactory("UND")
+let und_FAC
+let und 
+owner = await ethers.getSigner()
+let owner
+owner = ethers.getSigner()
+let owner

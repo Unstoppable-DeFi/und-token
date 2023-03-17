@@ -1,0 +1,17 @@
+{
+  "name": "und-token",
+  "version": "1.0.0",
+  "description": "The public repo for the Unstoppable tokens",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.13.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
